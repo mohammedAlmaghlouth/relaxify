@@ -2,7 +2,8 @@
 
 ## Description 
 
-Relaxify is a mobile app that lets users create personalized playlists of relaxing music to help them unwind and de-stress. With easy play, pause, stop, and shuffle controls, users can customize their music experience. The app offers a wide selection of relaxing music from different genres and has a user-friendly interface for seamless navigation.
+Relaxify is a mobile app that lets users play playlists of relaxing music to help them unwind and de-stress. With easy play, pause, stop, and shuffle controls.
+The app offers a wide selection of relaxing music from different genres and has a user-friendly interface for seamless navigation.
 
 ## Installation 
 
